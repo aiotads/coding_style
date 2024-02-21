@@ -39,7 +39,7 @@ This README details the specific coding style guidelines adopted for C++ code wi
 
 # Key Points
 
-- We primarily adhere to the Google C++ Coding Style Guide principles for readability and maintainability.
+- We primarily adhere to the **```Google C++ Coding Style Guide principles```** for readability and maintainability.
 
 - The project-specific .clang-format file allows minor adjustments tailored to our team's preferences.
 
